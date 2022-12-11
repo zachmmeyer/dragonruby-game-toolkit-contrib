@@ -365,7 +365,7 @@ with your source code (it’s why we keep it small). It’s to protect “shelf 
 But you know that the code you’ve written will definitely work with the
 version that was committed to source control. It's strongly recommended that you
 do **not** keep DragonRuby Game Tooklit in a shared location and instead unzip
-a clean copy for ever game. That being said, You can optionally pass a directory
+a clean copy for every game. That being said, You can optionally pass a directory
 when starting up DragonRuby from the terminal: ~./dragonruby ./non-defualt-game-directory~.
 
 S
